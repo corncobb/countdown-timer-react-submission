@@ -12,12 +12,12 @@ Then run:
 
 Screenshots: 
 
-![](images/Screenshot1.jpg)
+![](images/Screenshot1.JPG)
 
-![](images/Screenshot2.jpg)
+![](images/Screenshot2.JPG)
 
-![](images/Screenshot3.jpg)
+![](images/Screenshot3.JPG)
 
-![](images/Screenshot4.jpg)
+![](images/Screenshot4.JPG)
 
 
